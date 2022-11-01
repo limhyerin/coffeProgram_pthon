@@ -22,10 +22,10 @@
 
 # 입력받은 돈이 총가격(지급해야할 돈)보다 많을 시
 
-- 총금액과 거스름돈 출력
 ![image](https://user-images.githubusercontent.com/70150896/199133082-4a1961ef-5c62-45df-9d05-3c0584045c42.png)
+- 총금액과 거스름돈 출력
 
 # 입력받은 돈이 총가격(지급해야할 돈)보다 적을 시
 
-- 총금액과 입력받은 돈, 부족한 돈 출력
 ![image](https://user-images.githubusercontent.com/70150896/199133112-ce5d1cec-0d69-47c5-9cf7-50e7225d04cb.png)
+- 총금액과 입력받은 돈, 부족한 돈 출력
