@@ -16,16 +16,19 @@
 8 - 총가격보다 지급한 돈이 적을시 얼마가 부족한지를 출력하고 돈이 부족함으로 시스템을 종료시킴
 
 
-# 소스코드
+# 소스코드(Sorce Code)
 ![image](https://user-images.githubusercontent.com/70150896/199135350-0ff6e405-e673-44dc-8f29-d51f9876c423.png)
 ![image](https://user-images.githubusercontent.com/70150896/199135389-346f50df-637c-4f8f-a441-068ab683d53a.png)
 
-# 입력받은 돈이 총가격(지급해야할 돈)보다 많을 시
+
+# 결과(Result)
+[ 입력받은 돈이 총가격(지급해야할 돈)보다 많을 시 ]
 
 ![image](https://user-images.githubusercontent.com/70150896/199133082-4a1961ef-5c62-45df-9d05-3c0584045c42.png)
 - 총금액과 거스름돈 출력
 
-# 입력받은 돈이 총가격(지급해야할 돈)보다 적을 시
+
+[ 입력받은 돈이 총가격(지급해야할 돈)보다 적을 시 ]
 
 ![image](https://user-images.githubusercontent.com/70150896/199133112-ce5d1cec-0d69-47c5-9cf7-50e7225d04cb.png)
 - 총금액과 입력받은 돈, 부족한 돈 출력
